@@ -1,13 +1,12 @@
-# Proyecto visión por ordenador — Sistema de seguridad + Tracking (Bola azul)
+# Proyecto visión por ordenador — Sistema de seguridad + Tracking 
 Realizado por Iñaki Juan-Aracil y Javier Sarabia Garciía
 
 Proyecto de Visión por Computador (OpenCV, Python).  
-El sistema funciona en **dos fases**:
+El sistema funciona en dos fases:
 
-1) **Login de seguridad**: detecta una secuencia de **tokens color + forma** dentro de un ROI (“FIGURAS”).  
-2) **Juego (billar)**: detecta y **trackea una bola azul**, permite seleccionar **agujeros** y suma **puntuación** cuando la bola se pierde dentro de un agujero.
+1) Login de seguridad: detecta una secuencia de color + forma dentro de un ROI.  
+2) Juego (billar): detecta y trackea una bola azul, permite seleccionar agujeros y suma puntos cuando la bola se pierde dentro de un agujero.
 
----
 
 ## Estructura del proyecto
 
