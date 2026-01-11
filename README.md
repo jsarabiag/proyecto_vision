@@ -18,7 +18,7 @@ LAB_PROJECT/
 │  ├─ camera_00.jpg ... camera_08.jpg
 │  ├─ camera_calibration_params.npz
 │  └─ esquinas/
-│     ├─ camera_00_marked.jpg ... camera_08_marked.jpg
+│     ├─ camera_00_esquinas.jpg ... camera_08_esquinas.jpg
 ├─ src/
 │  ├─ calibration.py
 │  └─ main.py
