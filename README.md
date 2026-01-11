@@ -1,5 +1,5 @@
 # Proyecto visión por ordenador 
-# Sistema de seguridad y Tracking 
+## Sistema de seguridad y Tracking 
 Realizado por Iñaki Juan-Aracil y Javier Sarabia Garciía
 
 Proyecto de Visión por Computador (OpenCV, Python).  
